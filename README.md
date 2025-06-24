@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web development**
 
-- 👨‍💻 All of my projects are available at [https://sathya3103.github.io/PORTFOLIO/](https://sathya3103.github.io/PORTFOLIO/)
+- 👨‍💻 All of my projects are available at https://sathya3103.github.io/PORTFOLIO/
 
 - 📫 How to reach me **nesarsathya@gmail.com**
 
