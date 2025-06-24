@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sathyanesar E</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sathya3103&label=Profile%20views&color=0e75b6&style=flat" alt="sathya3103" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sathya3103" alt="sathya3103" /></a> </p>
-
 - 🔭 I’m currently pursing **Bachelor of Engineering — Computer Science and Engineering**
 
 - 🌱 I’m currently learning **Full Stack Web development**
 
-- 👨‍💻 All of my projects are available at https://sathya3103.github.io/PORTFOLIO/
+- 👻 Here my portfolio:  https://sathya3103.github.io/PORTFOLIO/
 
 - 📫 How to reach me **nesarsathya@gmail.com**
 
