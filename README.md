@@ -23,3 +23,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sathya3103&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sathyanesar_E?theme=dark&font=Marcellus)
